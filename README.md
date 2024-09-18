@@ -1,0 +1,5 @@
+In the notebook, we will use a dataset from a telecommunications company (https://www.kaggle.com/datasets/blastchar/telco-customer-churn/code). The company is interested in understanding the factors that contribute to customer churn (customers leaving the company for a competitor) and developing interpretable models to predict which customers are at risk of churning.
+
+The license of the dataset belongs to the Original Authors (Data files © Original Authors)
+
+In terms of models, we will focus on creating a linear regression model, a logisitic regression model, and a GAM model. Our target variable is 'Churn', which is a binary variable, effectively making this problem a classification problem. Using the linear regression model is not optimal in this case, but might give us some interesting insights since learning about the interpretability of inherently interpretable models is interesting 😃
